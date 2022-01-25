@@ -1,9 +1,10 @@
 main{
-    background-size: fit;
+    background-size: cover;
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 40px;
     height: calc(100vh - 80px);
     align-content: flex-start;
+    padding: 0;
 }
 

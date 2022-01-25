@@ -3,7 +3,7 @@ export const animals = [
     name: 'Betsy the Cow',
     type: 'cow',
     says: 'Mooooooo!',
-    top: '350px',
+    top: '395px',
     left: '53%',
   },
   {
@@ -11,7 +11,7 @@ export const animals = [
     type: 'donkey',
     says: 'Heee haw!',
     top: '565px',
-    left: '46%',
+    left: '39%',
   },
   {
     name: 'Golly the Goose',
@@ -25,20 +25,20 @@ export const animals = [
     type: 'pig',
     says: 'You have been my friend. That in itself is a tremendous thing.',
     top: '560px',
-    left: '0%',
+    left: '2%',
   },
   {
     name: 'Charlotte the Spider',
     type: 'spider',
     says: 'Never hurry and never worry!',
-    top: '400px',
+    top: '450px',
     left: '74%',
   },
   {
     name: 'Samuel the Sheep',
     type: 'sheep',
     says: "Just because we're sheep, it doesn't mean we have to follow. Think for yourselves.",
-    top: '400px',
-    left: '15%',
+    top: '429px',
+    left: '25%',
   },
 ];
